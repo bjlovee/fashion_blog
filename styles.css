@@ -1,0 +1,84 @@
+
+.title {
+    display: flex;
+    color: rgb(230, 38, 38);
+    font-weight: lighter;
+    font-size: 120px;
+    margin-left: 2rem;
+}
+
+.sub-title {
+    display: flex;
+    color: black;
+    font-weight:lighter;
+    font-size: 70px;
+    margin-left: 2rem;
+}
+
+li {
+    display: flex;
+    display: inline-block;
+    font-size: 30px;
+    justify-content: space-between;
+    padding : 0 40px 0 40px;
+}
+
+a {
+    color: gray;
+}
+
+time {
+    display: flex;
+    color: lightgray;
+    font-weight:lighter;
+    font-size: 50px;
+    margin-left: 5rem;  
+    margin-top: 8rem;
+}
+
+.article1{
+    display: flex;
+    color: black;
+    font-weight:lighter;
+    font-size: 90px;
+    margin-left: 5rem;
+    margin-top: 100px;
+}
+
+img {
+    display: flex;
+    align-self: center;
+    width: 75%;
+    margin-left: 5rem;
+}
+
+p {
+    display: flex;
+    flex-wrap: wrap;
+    width: 75%;
+    margin-left: 5rem;
+}
+
+h4 {
+    display: flex;
+    font-size: 30px;
+    color: rgb(230, 38, 38);
+    margin-left: 84rem;
+}
+
+hr {
+    display: flex;
+    width: 77%;
+   margin-left: 54px;
+}
+
+.footer > a {
+    color: rgb(230, 38, 38)
+}
+
+h3 {
+    display: flex;
+    color: lightgray;
+    font-weight:lighter;
+    font-size: 50px;
+}
